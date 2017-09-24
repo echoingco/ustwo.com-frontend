@@ -22,6 +22,8 @@ you want (like Docker Toolbox / [Kitematic][7]).
 
 * Install [Virtualbox][10]
 
+        $ brew install virtualbox
+
 *Note*: Beware, the version might matter. Our latest known working version is
 5.0.4.
 
